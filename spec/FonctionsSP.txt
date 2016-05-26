@@ -1,0 +1,6 @@
+LISTE DES FONCTIONS				
+
+	COND	: Conducteur				
+	CA      : Chef d'agrès				
+	CE      : Chef d'équipe				
+	EQU	: Equipier

@@ -1,0 +1,7 @@
+LISTE DES VEHICULES
+
+	FTP  : Fougon Pompe Tonne
+	VSAV : Vehicule de Secours de d'Assistance aux Victimes
+	VTU  : Vehicule tout usage
+	VLHR : Vehicule de Liaison Hors Chemin	
+	CCF  : Equipier
