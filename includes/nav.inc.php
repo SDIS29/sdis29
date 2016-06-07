@@ -38,6 +38,11 @@ if($data['LOG_PROFIL'] == 'SF')
         <li class="nlink"><a href="../01_SP/personnel_sp.php">Personnel</a></li>
         <li class="nlink"><a href="../03_SF/pf71.php">Catalogue</a></li>
         <li class="nlink"><a href="../03_SF/pf6.php">Validation</a></li>
+
+
+    <li class="nlink"><a href="../03_SF/Recherche.php">Recherche  </a></li>
+
+
         <li class="nlink"><a href="../deconnexion.php">D&eacute;connexion</a></li>
     <?php
 }
